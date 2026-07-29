@@ -8,8 +8,11 @@
 [![API Docs](https://img.shields.io/badge/API-Documentation-green)](https://yingsuan.top/api.html)
 [![Blog](https://img.shields.io/badge/Blog-Latest-orange)](https://yingsuan.top/blog.html)
 [![License](https://img.shields.io/badge/License-MIT-lightgrey)]()
+[![Listed on Yunnan Data Exchange](https://img.shields.io/badge/Listed-Yunnan%20Data%20Exchange-00d4ff)](https://ltly.szyn.com.cn/?utm_source=yingsuan&utm_medium=github&utm_campaign=yunnan_platform)
 
 </div>
+
+> 🏛️ Our LLM API Gateway service is **listed on the Yunnan Data Circulation Trading Platform** (provincial platform + regional node, dual-node listing). [View on platform](https://ltly.szyn.com.cn/?utm_source=yingsuan&utm_medium=github&utm_campaign=yunnan_platform)
 
 ---
 
