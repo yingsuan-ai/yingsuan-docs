@@ -68,7 +68,20 @@ print(response.choices[0].message.content)
 |-------|------|----------------------|
 | `deepseek-chat` | Chat/Completion | Competitive pricing |
 | `deepseek-reasoner` | Reasoning | Competitive pricing |
-| More models coming soon... | | |
+| `kimi-k3` | Chat/Completion (2.8T MoE, 1M context) | Competitive pricing |
+| `glm-4-flash` / `glm-4.7-flash` / `Qwen2.5-7B` | Free-tier models | **Free** |
+
+---
+
+## 🎁 Free Tier
+
+No credit card? Start free:
+
+- **100 free API calls**, 5 req/min
+- 3 permanent-free models: `glm-4-flash` (128K), `glm-4.7-flash` (200K), `Qwen2.5-7B`
+- Upgrade later to unlock **Kimi K3** (2.8T MoE, 1M context) and 10+ models
+
+👉 [Get your free key →](https://yingsuan.top/api.html?utm_source=github&utm_medium=readme&utm_campaign=k3_launch)
 
 ---
 
