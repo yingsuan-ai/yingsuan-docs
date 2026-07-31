@@ -8,11 +8,11 @@
 [![API Docs](https://img.shields.io/badge/API-Documentation-green)](https://yingsuan.top/api.html)
 [![Blog](https://img.shields.io/badge/Blog-Latest-orange)](https://yingsuan.top/blog.html)
 [![License](https://img.shields.io/badge/License-MIT-lightgrey)]()
-[![Listed on Yunnan Data Exchange](https://img.shields.io/badge/Listed-Yunnan%20Data%20Exchange-00d4ff)](https://ltly.szyn.com.cn/?utm_source=yingsuan&utm_medium=github&utm_campaign=yunnan_platform)
+[![Dual-node Listed on Yunnan Data Exchange](https://img.shields.io/badge/Dual--node%20Listed-Yunnan%20Data%20Exchange-00d4ff)](https://yingsuan.top/yunnan-listing.html?utm_source=github&utm_medium=readme&utm_campaign=dual_listing_0731)
 
 </div>
 
-> 🏛️ Our LLM API Gateway service is **listed on the Yunnan Data Circulation Trading Platform** (provincial platform + regional node, dual-node listing). [View on platform](https://ltly.szyn.com.cn/?utm_source=yingsuan&utm_medium=github&utm_campaign=yunnan_platform)
+> 🏛️ Our LLM API Gateway service and AI Computing Scheduling service are **dual-node listed on the Yunnan Data Circulation Trading Platform** (provincial platform + regional node). [View listing](https://yingsuan.top/yunnan-listing.html?utm_source=github&utm_medium=readme&utm_campaign=dual_listing_0731)
 
 ---
 
