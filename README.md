@@ -134,6 +134,12 @@ Full API documentation: [yingsuan.top/api.html](https://yingsuan.top/api.html)
 ```
 
 ---
+## 🏗️ Want to Build Your Own Gateway?
+
+If you want to understand how an OpenAI-compatible aggregation gateway is built from scratch, check out our teaching scaffold:
+
+👉 [yingsuan-ai/gateway-from-scratch](https://github.com/yingsuan-ai/gateway-from-scratch) — generic architecture, common pitfalls, and a runnable minimal example.
+
 
 ## 🌏 Target Markets
 
